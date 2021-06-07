@@ -1,5 +1,5 @@
 
-<h1 align="center">Solutions to the Helsinki's Mooc on Java ☕ </h1>
+<h1 align="center">Solutions to the Helsinki's Mooc Part I on Java ☕ </h1>
 
 ## Motivation:
 This repository was created to help the beginners who are stuck up somewhere with the projects/excercises for practice provided by Helsinki’s Java Mooc. 
